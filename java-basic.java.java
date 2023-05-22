@@ -63,8 +63,7 @@ public class Collection {
 		list.add(1);
 		list.add(9);
 		list.add(93);
-		list.add(1);
-		list.add(9);
+	
 		
 		System.out.println(list.get(2));
         Iterator itr = list.iterator();
